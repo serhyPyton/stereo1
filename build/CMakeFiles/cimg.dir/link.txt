@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -Wextra -fopenmp -O3  -shared -Wl,-soname,libcimg.so -o libcimg.so  

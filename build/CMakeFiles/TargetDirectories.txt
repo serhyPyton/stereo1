@@ -1,0 +1,4 @@
+/home/makarenko/inst/stereo/lab1/build/CMakeFiles/edit_cache.dir
+/home/makarenko/inst/stereo/lab1/build/CMakeFiles/cimg.dir
+/home/makarenko/inst/stereo/lab1/build/CMakeFiles/rebuild_cache.dir
+/home/makarenko/inst/stereo/lab1/build/CMakeFiles/stereo.dir

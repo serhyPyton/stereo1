@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -fopenmp -g    CMakeFiles/stereo.dir/src/main.cc.o  -o stereo -Wl,-rpath,/home/makarenko/inst/stereo/lab1/cmake-build-debug libcimg.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_iostreams.so -lutil -lpthread -lX11 /usr/lib/x86_64-linux-gnu/libboost_regex.so 
